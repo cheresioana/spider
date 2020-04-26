@@ -1,0 +1,39 @@
+@import-reset;	
+
+
+
+.header-background{
+	margin: 0px;
+	width: 100%;
+	background-color: #5B3256;
+	height: 60px
+}
+
+.stretch{
+	display: inline-block;
+	float: right;
+	margin-right: 20px;
+	margin-top: 15px;
+}
+
+.header-buttons{
+	margin-right: 40px;
+}
+
+.intro-text{
+	font-family: myriad-font;
+	text-align: left;
+	letter-spacing: 2px;
+	word-spacing: 4px;
+	font-size: 1.3em;
+}
+
+.title-text{
+	font-family: myriad-font;
+	text-align: center;
+	letter-spacing: 2px;
+	word-spacing: 4px;
+	font-size: 5em;
+	font-weight: bold;
+}
+

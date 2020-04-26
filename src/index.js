@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import App from './components/App';
+import './css/index.css';
+import 'bootstrap/dist/css/bootstrap.css';
 import * as serviceWorker from './serviceWorker';
+import 'myriad-font/css/myriad.min.css.map';
 
 ReactDOM.render(
   <React.StrictMode>
